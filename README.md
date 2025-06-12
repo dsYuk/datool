@@ -10,7 +10,7 @@
 
 Auto EDA & Insight Platform is a **one-click data analysis solution** for data analysts and business users. You can perform professional-level exploratory data analysis (EDA) and generate automated insights without complex coding.
 
-![Use at streamlit server](https://dsyuk-datool-main-facrjq.streamlit.app/)
+[Use at streamlit server](https://dsyuk-datool-main-facrjq.streamlit.app/)
 
 ### 🚀 Core Values
 - **Accessibility**: Professional data analysis without coding knowledge
