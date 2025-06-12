@@ -293,17 +293,7 @@ with tabs[6]:
                 st.info("No reports generated yet. Create your first report above!")
         except Exception as e:
             st.error(f"Error in report management: {str(e)}")
-        
-        # Advanced report options
-        with st.expander("🔧 Advanced Report Options"):
-            st.write("**Coming in future updates:**")
-            st.write("- 📊 Custom chart selection")
-            st.write("- 🎨 Report themes and styling")
-            st.write("- 📧 Scheduled email reports")
-            st.write("- 🔗 Report sharing links")
-            st.write("- 📈 Comparative analysis reports")
-            st.write("- 💾 PowerPoint/Word export")
-    
+
     except Exception as e:
         st.error(f"Error in Report tab: {str(e)}")
 
